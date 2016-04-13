@@ -24,7 +24,7 @@
       }
 
       //Reset
-      randomExcuses = _.shuffle(excusesHolder);
+      randomExcuses = excusesHolder;
       excusesHolder = [];
     }
 
