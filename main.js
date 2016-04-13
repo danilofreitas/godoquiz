@@ -26,6 +26,7 @@
   $(document).keyup(function(k) {
     if (k.keyCode == 32) {
       $("h1").fadeTo(getRandomExcuse());
+      $(".jumper-man img").attr('src', 'assetes/img/jumper-boy.gif')
     }
   });
 

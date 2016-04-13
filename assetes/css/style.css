@@ -658,3 +658,10 @@ footer .modal-toggle.toggled .dot3 {
 .dotted-paper-popover .dotted-paper-button:hover {
     background: #cf5a3f
 }
+
+.jumper-man {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
